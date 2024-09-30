@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 16px;
+    color: blue;
+}
+
+p {
+    text-align: justify;
+}
+
+.figuras {
+    display: flex;
+    justify-content: space-between;
+}
+
+.figuras img {
+    width: 100px; /* Ajuste conforme necessário */
+}
